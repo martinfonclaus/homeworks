@@ -1,0 +1,9 @@
+.text--bold {
+    color: red;
+}
+.parent {
+    color: rgb(255, 127, 212);
+}
+a [href="blog"] {
+    color: blue;
+}
