@@ -1,0 +1,27 @@
+.block {
+    color: gray;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+    padding: 25px;
+    letter-spacing: 10px;
+}
+.block_2 {
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+    padding-left: 25px;
+    letter-spacing: 10px;
+    line-height: 10px;
+    text-align: center;
+}
+.block_3 {
+    color: aqua;
+    font-size: 20px;
+    font-style: oblique;
+    padding: 30px;
+    text-align: right;
+    letter-spacing: 1px;
+    text-shadow: 2px 3px 1px #000;
+    text-decoration: underline dashed;
+}
