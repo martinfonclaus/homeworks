@@ -1,0 +1,15 @@
+.greet__title {
+  font-size: 5rem;
+  margin-bottom: 50px;
+  font-family: 'Shantell Sans', sans-serif;
+}
+.greet__text {
+  font-size: 2rem;
+  line-height: 150%;
+  margin-bottom: 50px;
+  font-family: 'Caveat', sans-serif;
+}
+.greet__text-2 {
+  font-weight: bold;
+}
+
