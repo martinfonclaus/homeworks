@@ -1,0 +1,24 @@
+/* .wrapper {
+  padding: 100px 100px 30vh;
+  height: 100vh;
+  background: linear-gradient(#8E0E00, #1F1C18);
+}
+.block {
+  height: 100%;
+  background: url(../img/corgi.jpeg) center center no-repeat;
+  
+  
+} */
+
+.wrapper {
+  padding: 100px 100px 30vh;
+  height: 100vh;
+  background: linear-gradient(#8E0E00, #1F1C18);
+}
+.block {
+  height: 100%;
+  background-image: url(../img/corgi.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  
+}
