@@ -1,0 +1,43 @@
+body {
+  background-color: #333;
+  color: #fff;
+}
+
+
+
+
+.block, .skew {
+  padding: 100px 0;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.block__blocks,
+.skew__blocks {
+  display: flex;
+  justify-content: center;
+}
+
+.red,
+.blue {
+  width: 300px;
+  height: 300px;
+}
+
+.red {
+  background-color: rgba(240, 82, 82, 0.699);
+  
+}   
+
+.blue {
+  background-color: rgba(102, 102, 228, 0.671);
+}
+
+.block__red {
+    transform: rotate(-30deg) translateX(calc(100vw / 10))
+}
