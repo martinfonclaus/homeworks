@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  width: 100%;
+  padding-top: 300px;
+}
+
+
+
+.flexbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
