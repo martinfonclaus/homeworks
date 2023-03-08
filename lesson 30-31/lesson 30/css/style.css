@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  font-size: 30px;
+}
+
+.wrapper {
+  padding: 300px;
+  
+}
+
+.menu__item:first-child:hover {
+  color: red;
+}
